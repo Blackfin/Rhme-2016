@@ -30,3 +30,6 @@ The RHme2 (Riscure Hack me 2) is our low level hardware CTF challenge that comes
 For more information and registration, visit http://rhme.riscure.com
 
 Follow us on twitter at @riscure and #rhme2 for updates.
+
+## Some infos from liveoverflow 
+http://liveoverflow.com/rhme/index.html
